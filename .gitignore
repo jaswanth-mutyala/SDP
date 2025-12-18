@@ -1,7 +1,7 @@
 # Datasets
-Datasets/
-*.pcap
-*.csv
+# Datasets/
+# *.pcap
+# *.csv
 
 # OS generated files
 .DS_Store
